@@ -1,16 +1,36 @@
-## Hi there 👋
+# hey.
 
-<!--
-**testimonies/testimonies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+                                                                                                   
+                                                                                                 
+                                              ,--,                                ____           
+                                            ,--.'|                              ,'  , `.         
+                             .---.          |  | :               ,---.       ,-+-,.' _ |         
+                            /. ./|          :  : '              '   ,'\   ,-+-. ;   , ||         
+                         .-'-. ' |   ,---.  |  ' |      ,---.  /   /   | ,--.'|'   |  || ,---.   
+                        /___/ \: |  /     \ '  | |     /     \.   ; ,. :|   |  ,', |  |,/     \  
+                     .-'.. '   ' . /    /  ||  | :    /    / ''   | |: :|   | /  | |--'/    /  | 
+                    /___/ \:     '.    ' / |'  : |__ .    ' / '   | .; :|   : |  | ,  .    ' / | 
+                    .   \  ' .\   '   ;   /||  | '.'|'   ; :__|   :    ||   : |  |/   '   ;   /| 
+                     \   \   ' \ |'   |  / |;  :    ;'   | '.'|\   \  / |   | |`-'    '   |  / | 
+                      \   \  |--" |   :    ||  ,   / |   :    : `----'  |   ;/        |   :    | 
+                       \   \ |     \   \  /  ---`-'   \   \  /          '---'          \   \  /  
+                        '---"       `----'             `----'                           `----'   
+                                                                                                 
+</pre>
 
-Here are some ideas to get you started:
+## about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - questionable programmer
+#### - questionable cadder
+#### - vibes
+
+## skill (issues)
+
+#### python - java - kotlin
+
+#### fusion - onshape - kicad
+
+<div align = "center">
+  <a href='https://www.thingiverse.com/health/' target='_blank'><img src="https://img.shields.io/badge/thingiverse-health-2b52fe?style=flat&labelColor=white"/></a>
+</div>
